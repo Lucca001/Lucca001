@@ -4,7 +4,7 @@
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://luccadev.my.canva.site/)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que uso no meu dia a dia 
 
 <div style="display: inline_block"><br/>
  <img align ="center" alt="python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
